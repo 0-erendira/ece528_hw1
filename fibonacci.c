@@ -25,5 +25,5 @@ int main(void)
     printf("Name: Erendira Miranda\n");
     printf("The %dth Fibonacci number is: %llu\n", n, current);
 
-    return 0;
+    return 1;
 }
