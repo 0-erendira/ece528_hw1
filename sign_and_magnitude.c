@@ -14,6 +14,8 @@ int main(void)
 
     abs_val = abs(num);
 
+    printf("Name: Erendira Miranda  HW1 \n");
+
     if(num > 0)
     {
         printf("the number is positive.\n");
