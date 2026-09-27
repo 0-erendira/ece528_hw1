@@ -129,12 +129,15 @@ This program determines whether an integer is positive, negative, or zero and di
 
 The program was tested using positive, negative, zero, and invalid inputs.
 
-![Integer Sign and Magnitude test cases]
-(screeshots/task1_t1.png)
-(screeshots/task1_t2.png)
-(screeshots/task1_t3.png)
-(screeshots/task1_t4.png)
-(screeshots/task1_t5.png)
+![Integer Sign and Magnitude test 1](screenshots/task1_t1.png)
+
+![Integer Sign and Magnitude test 2](screenshots/task1_t2.png)
+
+![Integer Sign and Magnitude test 3](screenshots/task1_t3.png)
+
+![Integer Sign and Magnitude test 4](screenshots/task1_t4.png)
+
+![Integer Sign and Magnitude test 5](screenshots/task1_t5.png)
 
 ### Bit Counter
 
