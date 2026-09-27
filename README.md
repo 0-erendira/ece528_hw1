@@ -123,27 +123,12 @@ void LEDs_Init(void)
 
 Source file: `sign_and_magnitude.c`
 
-This program determines whether an integer is positive, negative, or zero and displays its absolute value.
-
-#### Test Cases
-
-The program was tested using positive, negative, zero, and invalid inputs.
-
-![Integer Sign and Magnitude test 1](screenshots/task1_t1.png)
-
-![Integer Sign and Magnitude test 2](screenshots/task1_t2.png)
-
-![Integer Sign and Magnitude test 3](screenshots/task1_t3.png)
-
-![Integer Sign and Magnitude test 4](screenshots/task1_t4.png)
-
-![Integer Sign and Magnitude test 5](screenshots/task1_t5.png)
-
+This program determines whether an integer is positive, negative, or zero and displays its absolute value
 ### Bit Counter
 
 Source file: `bit_counter.c`
 
-Add your program explanation, test cases, and screenshot here.
+This program determines how many bits are in the integer that the user enters.    
 
 ### Fibonacci
 
