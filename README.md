@@ -134,4 +134,4 @@ This program determines how many bits are in the integer that the user enters.
 
 Source file: `fibonacci.c`
 
-Add your program explanation, test cases, and screenshot here.
+This program does the fibonacci sequence based on the input users number.
